@@ -1,0 +1,108 @@
+{
+  "data": [
+    [
+      {
+        "word": "peer",
+        "translation": "n.同龄人;同等地位的人 v.仔细看;费力地看"
+      },
+      {
+        "word": "issue",
+        "translation": "v.发行,发表;发布;发,发放 n.问题,争端;(报刊的)期、号、版次"
+      },
+      {
+        "word": "claim",
+        "translation": "v.要求;主张;声称;断言;索取; n.要求;主张;声称;断言;索赔;提要求的权利;(拥有或获得某物的)权利"
+      },
+      {
+        "word": "proclaim",
+        "translation": "v.宣布;声明;公布;明确声明"
+      },
+      {
+        "word": "disclaim",
+        "translation": "v.放弃;拒绝承认;否认;放弃权利"
+      },
+      {
+        "word": "acclaim",
+        "translation": "v.向...欢呼;称赞;为...喝彩;宣布;欢呼;喝彩"
+      },
+      {
+        "word": "assert",
+        "translation": "v.断言;声称"
+      },
+      {
+        "word": "patent",
+        "translation": "v.取得...的专利权;授权专利 adj.专利的;明显的 n.专利;专利权;专利品"
+      },
+      {
+        "word": "line",
+        "translation": "n.行，列;(思想或行动的)步骤;方式，方法;路线;线路;(铁道或公交)线路;行业，行当;队，队伍;血统;家族;界线 v.排队;加衬，做里子"
+      },
+      {
+        "word": "value",
+        "translation": "n.价格;价值;实用性;重要性 v.评价，估计;尊重，重视"
+      }
+    ],
+    [
+      {
+        "word": "subject",
+        "translation": "v.使遭受;使服从;使隶属 n.主题;题目;学科;科目;主语 adj.受...支配的;服从于...的"
+      },
+      {
+        "word": "lead",
+        "translation": "v.领导;引导;促进;领先;占首位;通向;导致;带来 n.带领;领头;引导;铅"
+      },
+      {
+        "word": "leadership",
+        "translation": "n.领导能力;领导地位，领导阶层"
+      },
+      {
+        "word": "plead",
+        "translation": "v.请求;恳求;为...辩护;提出...为理由"
+      },
+      {
+        "word": "intend",
+        "translation": "v.想要;打算;企图"
+      },
+      {
+        "word": "sector",
+        "translation": "n.(经济的)部门;行业;领域"
+      },
+      {
+        "word": "consumer",
+        "translation": "n.顾客，消费者"
+      },
+      {
+        "word": "environment",
+        "translation": "n.环境;周围情况"
+      },
+      {
+        "word": "essay",
+        "translation": "n.论文;杂文;散文;(学生或某门课程所写的)轮说文，短文"
+      },
+      {
+        "word": "matter",
+        "translation": "n.(有形的)物质;(某一类型的)物质;(印刷或阅读的)材料 v.要紧;有关系;有影响"
+      },
+      {
+        "word": "fund",
+        "translation": "v.拨款，为...提供资金 n.专款;基金;资金"
+      },
+      {
+        "word": "hold",
+        "translation": "v.保证;拿住;握住;保有;拥有;拖住;支持 n.握住;掌握;货轮;行李舱"
+      },
+      {
+        "word": "evidence",
+        "translation": "n.根据;证据;行迹，迹象"
+      },
+      {
+        "word": "practice",
+        "translation": "v.练习;训练 n.练习;训练;业务活动;工作"
+      },
+      {
+        "word": "function",
+        "translation": "v.充当;工作;起作用 n.功能;作用;职责;职务"
+      }
+    ]
+  ]
+}
